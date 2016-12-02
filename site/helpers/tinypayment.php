@@ -21,7 +21,7 @@ class TinyPaymentHelper
 		$cright = '<div class="margin"></div>';
 		$cright .= '<div class="span12">';
 		$cright .= '<div style="text-align: center">';
-		$cright .=  'برنامه نویسی  <a title="کامپوننت آسان پرداخت جوملا" href="https://trangell.com/fa/" rel="alternate">کامپوننت آسان پرداخت جوملا</a>  :  <a title="گروه برنامه نویسی ترانگل" href="https://trangell.com/fa/" rel="alternate">ترانگل</a>';
+		$cright .=  'برنامه نویسی  <a title="کامپوننت آسان پرداخت جوملا" href="https://trangell.com/fa/blog/90-کامپوننت-آسان-پرداخت-جامع-جوملا" rel="alternate">کامپوننت آسان پرداخت جوملا</a>  :  <a title="گروه برنامه نویسی ترانگل" href="https://trangell.com/fa/" rel="alternate">ترانگل</a>';
 		$cright .= '</div>';
 		$cright .= '</div>';
 		$cright .= '<div class="clearfix"></div>';

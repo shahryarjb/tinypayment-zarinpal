@@ -45,7 +45,7 @@ abstract class TinyPaymentHelper
 
 	public static function cRight() {
 		echo '<div class="span6 cright">
-            	تمامی حقوق " <a title="کامپوننت آسان پرداخت جوملا" href="https://trangell.com/fa/" rel="alternate">کامپوننت آسان پرداخت جوملا</a> " متعلق به وبسایت " <a title="گروه برنامه نویسی ترانگل" href="https://trangell.com/fa/" rel="alternate">ترانگل</a> " می باشد. 
+            	تمامی حقوق " <a title="کامپوننت آسان پرداخت جوملا" href="https://trangell.com/fa/blog/90-کامپوننت-آسان-پرداخت-جامع-جوملا" rel="alternate">کامپوننت آسان پرداخت جوملا</a> " متعلق به وبسایت " <a title="گروه برنامه نویسی ترانگل" href="https://trangell.com/fa/" rel="alternate">ترانگل</a> " می باشد. 
           		<code>
             	نسخه 1.0.0
           		</code>

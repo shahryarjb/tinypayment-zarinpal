@@ -5,14 +5,40 @@
 	<!-- The following elements are optional and free of formatting constraints -->
 	<creationDate>Dec 2016</creationDate>
 	<author>Trangell</author>
-	<authorEmail>Trangell</authorEmail>
-	<authorUrl>http://trangell.com/</authorUrl>
-	<copyright>Copyright Info</copyright>
-	<license>License Info</license>
+	<authorEmail>info@trangell.com</authorEmail>
+	<authorUrl>https://trangell.com/</authorUrl>
+	<copyright>تیم برنامه نویسی ترانگل</copyright>
+	<license>GPL-3.0</license>
 	<!--  The version string is recorded in the components table -->
-	<version>0.0.1</version>
+	<version>1.0.0</version>
 	<!-- The description is optional and defaults to the name -->
-	<description>COM_TINYPAYMENT_DESCRIPTION</description>
+	<description>
+	<![CDATA[<div align="center">
+			<div class="alert alert-success" style="background-color:#edf4ff;border-color:#a0c7ff;color: #0088CC;padding: 10px; font-family:tahoma; font-size:12px; font-weight:normal;">
+			<h4>
+			<a href="https://trangell.com/fa/blog/6-خدمات-افزونه-نویسی" style="font-family:tahoma; font-size:15px; font-weight:normal;">خدمات افزونه نویسی جوملا</a> | 
+			<a href="https://trangell.com/fa/blog/91-آموزش-نصب-درگاه-بانکی-جوملا-با-کامپوننت-آسان-پرداخت" style="font-family:tahoma; font-size:15px; font-weight:normal;">آموزش اتصال جوملا به درگاه بانکی</a> | 
+			<a href="https://telegram.me/trangell" style="font-family:tahoma; font-size:15px; font-weight:normal;">کانال تلگرام ترانگل</a> |
+			<a href="https://trangell.com/fa/home/portfolio" style="font-family:tahoma; font-size:15px; font-weight:normal;">نمونه کار طراحی سایت</a>		<br>
+			</h4>
+			<div>
+			<br/>
+			<br/>
+			<br/>
+			<span style="color:#2C8C42;font-size:20px">
+			کامپوننت آسان پرداخت جامع جوملا
+			</span>
+			<br/>
+			<br/>
+			<code>نسخه مخصوص زرین پال</code>				
+			</br>
+			<br/>
+			<br/>
+			<img style="margin: 0 auto" src="https://trangell.com/images/header-blogo.png">
+			</div>
+			<style>table.adminform{width: 100%;}</style>
+			</div>]]>
+	</description>
 
 	<!-- Runs on install/uninstall/update; New in 2.5 -->
 	<scriptfile>script.php</scriptfile>

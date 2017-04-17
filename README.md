@@ -1,3 +1,7 @@
+<h2 dir="rtl" style="text-align: right;">
+<a title="نسخه اصلی کامپوننت آسان پرداخت با پوشش تمام بانک ها" https://github.com/shahryarjb/tinypayment-all-persian-bank" rel="alternate">کامپوننت آسان پرداخت جامع جوملا</a>
+</h2>
+
 # کامپوننت آسان پرداخت جامع جوملای ترانگل مخصوص زرین پال
 <p> </p>
 <p style="text-align: center;"><a title="تیم برنامه نویسی و توسعه ترانگل" href="https://trangell.com/fa/" rel="alternate"><img src="https://trangell.com/images/header-blogo.png" alt="تیم برنامه نویسی و توسعه ترانگل" width="336" height="280" /><br /></a></p>
